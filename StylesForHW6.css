@@ -1,0 +1,75 @@
+.headDiv{
+    background-color:#8ebc8e;
+    min-height: 19vh;
+    min-width: 1000px;
+    margin: 25px;
+}
+.divPrague{
+background-color:#ffff01;
+height: 185px;
+width: 490px;
+border-style:dotted;
+border-width: 6px;
+margin: 35px 0px 0px 4vw;
+}
+.divParis{
+background-color:#9acd32;
+height: 185px;
+width: 490px;
+border-style: dashed;
+border-width: 6px;
+margin-left: 71vw ;
+
+}
+.divGermany{
+background-color:#9470dc;
+height: 185px;
+width: 490px;
+border-style: dashed;
+border-width: 6px;
+margin-left: 18vw;
+}
+.divAustria{
+background-color:#fa8071;
+height: 185px;
+width: 490px;
+border-style:dotted;
+border-width: 6px;
+margin-left: 47vw;
+}
+
+h1{
+    font-size:2rem;
+    padding-top: 25px;
+    margin-bottom: -18px;
+    text-align: center;
+    text-decoration: overline;
+    letter-spacing: 8px;
+}
+ul{
+    font-size: 1.1rem;
+    list-style-type: none;
+    text-align: center;
+    letter-spacing: 5px;
+}
+.liParisAndAustria{
+    font-weight: 700;
+    color: #145d0b;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+}
+.liTallin{
+    text-decoration: line-through #791e07 2px;
+}
+h2{
+    text-transform: uppercase;
+    text-align: center;
+    font-style: italic;
+}
+p{
+    margin: 25px;
+    text-indent: 30px;
+    font-size: 1.1em;
+    line-height: 1.8em;
+
+}
